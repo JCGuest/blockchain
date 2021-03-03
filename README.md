@@ -22,7 +22,7 @@ npm install
 npm start
 ```
 
-- ### Typescript compiler watch mode for developement
+- ### Typescript compiler watch mode for development
 
 ```
 npm dev
