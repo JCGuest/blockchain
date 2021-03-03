@@ -8,7 +8,22 @@ Watch the [Blockchain in 100 Seconds](https://youtu.be/qF7dkrce-mQ) video.
 
 ```
 git clone <this-repo>
+```
 
+- ### install dependentcies
+
+```
 npm install
+```
+
+- ### typescript compiler and node
+
+```
 npm start
+```
+
+- ### Typescript compiler watch mode for developement
+
+```
+npm dev
 ```
