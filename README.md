@@ -10,7 +10,7 @@ Watch the [Blockchain in 100 Seconds](https://youtu.be/qF7dkrce-mQ) video.
 git clone <this-repo>
 ```
 
-- ### install dependentcies
+- ### install dependencies
 
 ```
 npm install
